@@ -14,6 +14,6 @@ Something I spent a bunch of time on was implementing the Chainpoint route. Firs
 After submitting the hashed documents, Chainpoint returns an array of 'proof_handles'(three proof_handles per document, coming from different nodes). The proof handles are then submitted to get the proofs. We needed to associate each returned proof handle and verified proof with the correct document so we culd save them. I accomplished this by comparing the 'hash' property on the 'proof_handle' and 'verified_proof objects to the hash of the data sent to Chainpoint. If the hashes match, they go together.
 We decided to then store the returned Chainpoint data in JSON form in order to keep the shape of the data.
 
-![Filter unproofed documents](./filter-unproofed-docs.png)
+![Correct proof handles documents](./correct-proof-handles.png)
 
-![Filter unproofed documents](./filter-unproofed-docs.png)
+![Correct verified documents](./correct-verified-proofs.png)
