@@ -21,4 +21,4 @@ We decided to then store the returned Chainpoint data in JSON form in order to k
 
 ![Proof handles JSON](./proof-handles-JSON.png)
 
-![Proof handles JSON](./verified-proofs.png)
+![Proof handles JSON](./verified-proofs-JSON.png)
