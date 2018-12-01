@@ -22,3 +22,9 @@ We decided to then store the returned Chainpoint data in JSON form in order to k
 ![Proof handles JSON](./proof-handles-JSON.png)
 
 ![Proof handles JSON](./verified-proofs-JSON.png)
+
+The project really started coming together this week as the frontend got built out and we started tying together all the different things we had been working on. I feel like we faced some challenges that were caused by us having to start building the app without having a good understanding of the data we would be working with, and by things not working the way we thought they would. Our team overcame these challenges by frequently communicating throughout the day and making sure we were all aware of any problems or potential problems. We worked well together resolving any conflicts and pair programming to bring together different aspects of the app. I continue to be impressed by the skill and hard work of my teammates, and I learn multiple things from them every day.
+
+[Netlify](https://chainpoint-docusign.netlify.com/)
+
+[Heroku](https://chainpoint-docusign-server.herokuapp.com/)
